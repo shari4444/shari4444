@@ -6,7 +6,6 @@ Experience
 
 - Freelance Web Developer & UI/UX Designer
 - Social Media & Creative Manager at Shandilya Realty
-- Event Management & Community Operations
 - Brand Identity & Digital Design
 
 Currently Working On
