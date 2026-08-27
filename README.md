@@ -1,4 +1,7 @@
- Hi, I'm Sharvari Chaudhari
+ <p align="center">
+  <img src="./assets/hero.svg" width="100%" />
+</p>
+Hi, I'm Sharvari Chaudhari
 
 Second-year Software Engineering student passionate about building technology that solves real-world problems. My interests lie in Full Stack Development, Artificial Intelligence, UI/UX Design, and automation. I enjoy combining technical skills with creativity to build meaningful digital experiences.
 
