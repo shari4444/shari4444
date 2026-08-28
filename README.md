@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./assets/hero.svg" width="100%">
+</p>
 </p>
 Hi, I'm Sharvari Chaudhari
 
