@@ -2,195 +2,161 @@
      xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0d1117"/>
       <stop offset="100%" stop-color="#161b22"/>
     </linearGradient>
 
-    <linearGradient id="text" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#58a6ff"/>
       <stop offset="50%" stop-color="#bc8cff"/>
       <stop offset="100%" stop-color="#f778ba"/>
     </linearGradient>
-
   </defs>
 
-  <!-- Main rectangle -->
-  <rect
-    x="5"
-    y="5"
-    width="990"
-    height="320"
-    rx="25"
-    fill="url(#bg)"
-    stroke="#30363d"
-    stroke-width="2"
-  />
+  <!-- Background -->
+  <rect x="5" y="5" width="990" height="320"
+        rx="25"
+        fill="url(#bg)"
+        stroke="#30363d"
+        stroke-width="2"/>
 
   <!-- Animated border -->
-  <rect
-    x="5"
-    y="5"
-    width="990"
-    height="320"
-    rx="25"
-    fill="none"
-    stroke="url(#text)"
-    stroke-width="2"
-    stroke-dasharray="1000"
-    stroke-dashoffset="1000"
-  >
+  <rect x="5" y="5" width="990" height="320"
+        rx="25"
+        fill="none"
+        stroke="url(#gradient)"
+        stroke-width="3"
+        stroke-dasharray="2000"
+        stroke-dashoffset="2000">
+
     <animate
       attributeName="stroke-dashoffset"
-      from="1000"
+      from="2000"
       to="0"
       dur="2s"
-      fill="freeze"
-    />
+      fill="freeze"/>
   </rect>
 
   <!-- Name -->
-  <text
-    x="500"
-    y="75"
-    text-anchor="middle"
-    font-family="Arial, sans-serif"
-    font-size="32"
-    font-weight="bold"
-    fill="url(#text)"
-    opacity="0"
-  >
+  <text x="500" y="80"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="34"
+        font-weight="bold"
+        fill="url(#gradient)"
+        opacity="0">
+
     Hi, I'm Sharvari Chaudhari
 
     <animate
       attributeName="opacity"
       from="0"
       to="1"
-      begin="1.5s"
+      begin="1s"
       dur="1s"
-      fill="freeze"
-    />
+      fill="freeze"/>
   </text>
 
   <!-- Description -->
-  <text
-    x="500"
-    y="125"
-    text-anchor="middle"
-    font-family="Arial, sans-serif"
-    font-size="17"
-    fill="#c9d1d9"
-    opacity="0"
-  >
-    Second-year Software Engineering student
+  <text x="500" y="130"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="18"
+        fill="#c9d1d9"
+        opacity="0">
+
+    Second-year Software Engineering student passionate about
 
     <animate
       attributeName="opacity"
       from="0"
       to="1"
-      begin="2.2s"
+      begin="1.8s"
       dur="1s"
-      fill="freeze"
-    />
+      fill="freeze"/>
   </text>
 
-  <text
-    x="500"
-    y="152"
-    text-anchor="middle"
-    font-family="Arial, sans-serif"
-    font-size="17"
-    fill="#c9d1d9"
-    opacity="0"
-  >
-    passionate about building technology that solves real-world problems.
+  <text x="500" y="160"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="18"
+        fill="#c9d1d9"
+        opacity="0">
+
+    building technology that solves real-world problems.
 
     <animate
       attributeName="opacity"
       from="0"
       to="1"
-      begin="2.5s"
+      begin="2.1s"
       dur="1s"
-      fill="freeze"
-    />
+      fill="freeze"/>
   </text>
 
   <!-- Divider -->
-  <line
-    x1="180"
-    y1="185"
-    x2="820"
-    y2="185"
-    stroke="#30363d"
-  />
+  <line x1="200" y1="190"
+        x2="800" y2="190"
+        stroke="#30363d"
+        stroke-width="2"/>
 
   <!-- Repository box -->
-  <rect
-    x="225"
-    y="210"
-    width="230"
-    height="75"
-    rx="15"
-    fill="#161b22"
-    stroke="#30363d"
-  />
+  <rect x="240" y="215"
+        width="220"
+        height="75"
+        rx="15"
+        fill="#161b22"
+        stroke="#30363d"/>
 
-  <text
-    x="340"
-    y="240"
-    text-anchor="middle"
-    font-family="Arial, sans-serif"
-    font-size="15"
-    fill="#8b949e"
-  >
+  <text x="350" y="245"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="15"
+        fill="#8b949e">
+
     REPOSITORIES
+
   </text>
 
-  <text
-    x="340"
-    y="270"
-    text-anchor="middle"
-    font-family="Arial, sans-serif"
-    font-size="25"
-    font-weight="bold"
-    fill="#58a6ff"
-  >
-    YOUR_REPO_COUNT
+  <text x="350" y="275"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="25"
+        font-weight="bold"
+        fill="#58a6ff">
+
+    12
+
   </text>
 
   <!-- Commit box -->
-  <rect
-    x="545"
-    y="210"
-    width="230"
-    height="75"
-    rx="15"
-    fill="#161b22"
-    stroke="#30363d"
-  />
+  <rect x="540" y="215"
+        width="220"
+        height="75"
+        rx="15"
+        fill="#161b22"
+        stroke="#30363d"/>
 
-  <text
-    x="660"
-    y="240"
-    text-anchor="middle"
-    font-family="Arial, sans-serif"
-    font-size="15"
-    fill="#8b949e"
-  >
+  <text x="650" y="245"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="15"
+        fill="#8b949e">
+
     2026 COMMITS
+
   </text>
 
-  <text
-    x="660"
-    y="270"
-    text-anchor="middle"
-    font-family="Arial, sans-serif"
-    font-size="25"
-    font-weight="bold"
-    fill="#f778ba"
-  >
-    YOUR_COMMIT_COUNT
+  <text x="650" y="275"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="25"
+        font-weight="bold"
+        fill="#f778ba">
+
+    0
+
   </text>
 
 </svg>
