@@ -115,48 +115,4 @@
         font-size="15"
         fill="#8b949e">
 
-    REPOSITORIES
-
-  </text>
-
-  <text x="350" y="275"
-        text-anchor="middle"
-        font-family="Arial, sans-serif"
-        font-size="25"
-        font-weight="bold"
-        fill="#58a6ff">
-
-    12
-
-  </text>
-
-  <!-- Commit box -->
-  <rect x="540" y="215"
-        width="220"
-        height="75"
-        rx="15"
-        fill="#161b22"
-        stroke="#30363d"/>
-
-  <text x="650" y="245"
-        text-anchor="middle"
-        font-family="Arial, sans-serif"
-        font-size="15"
-        fill="#8b949e">
-
-    2026 COMMITS
-
-  </text>
-
-  <text x="650" y="275"
-        text-anchor="middle"
-        font-family="Arial, sans-serif"
-        font-size="25"
-        font-weight="bold"
-        fill="#f778ba">
-
-    0
-
-  </text>
-
-</svg>
+  </svg>
