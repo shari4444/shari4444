@@ -4,13 +4,13 @@
   <img src="assets/github-stats.gif" width="700">
 </p>
 
-# Hi there! 👋 I'm Sharvari Chaudhari
+# Hi there!  I'm Sharvari Chaudhari
 
 Welcome to my GitHub profile repository!
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 The statistics card above updates automatically every day via GitHub Actions.
 </p>
 Hi, I'm Sharvari Chaudhari
