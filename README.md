@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="assets/github-stats.gif" width="700">
+</p>
+
+# Hi there! 👋 I'm Sharvari Chaudhari
+
+Welcome to my GitHub profile repository!
+
+---
+
+### 📊 GitHub Statistics
+The statistics card above updates automatically every day via GitHub Actions.
 
 </p>
 Hi, I'm Sharvari Chaudhari
@@ -37,4 +49,3 @@ Connect
 Portfolio: https://sharvari-ac-portfolio.netlify.app
 
 LinkedIn: https://www.linkedin.com/in/sharvari-chaudhari-8636463a7/
-
