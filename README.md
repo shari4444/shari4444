@@ -1,3 +1,5 @@
+<img src="./assets/profile-animation.svg" width="100%" alt="Shari4444 GitHub profile animation">
+
 <p align="center">
   <img src="assets/github-stats.gif" width="700">
 </p>
@@ -10,7 +12,6 @@ Welcome to my GitHub profile repository!
 
 ### 📊 GitHub Statistics
 The statistics card above updates automatically every day via GitHub Actions.
-
 </p>
 Hi, I'm Sharvari Chaudhari
 
