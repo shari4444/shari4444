@@ -1,5 +1,5 @@
 #  About Me:
-i'm currently working ai automation and agentic ai <br>Currently Working On<br><br>- Full Stack Web Applications<br>- AI Voice Agents & Automation<br>- College Lost & Found Management System<br>- Open Source & Personal Projects<br><br>Tech Stack<br><br>Languages**  <br>C • Java • Python • JavaScript • HTML • CSS • SQL<br><br>**Technologies**  <br>React • Node.js • Express • Firebase • Git • GitHub • REST APIs<br><br>**Tools**  <br>VS Code • Figma • Canva • Netlify • Antigravity<br>
+<br>Currently Working On<br><br>- Full Stack Web Applications<br>- AI Voice Agents & Automation<br>- College Lost & Found Management System<br>- Open Source & Personal Projects<br><br>Tech Stack<br><br>Languages**  <br>C • Java • Python • JavaScript • HTML • CSS • SQL<br><br>**Technologies**  <br>React • Node.js • Express • Firebase • Git • GitHub • REST APIs<br><br>**Tools**  <br>VS Code • Figma • Canva • Netlify • Antigravity<br>
 
 <br>Connect
 
